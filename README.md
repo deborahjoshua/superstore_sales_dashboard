@@ -85,13 +85,25 @@ The dashboard was built to answer the following business questions:
 
 ## Dashboard Preview
 
-![Dashboard Overview](superstore_dashboard_overview.png)
+### Sales Performance & Fulfillment Overview
+![Sales Overview](sales_performance_fulfillment_overview.png)
+
+### Regional Sales & Profit Performance
+![Regional Performance](regional_sales_profit_performance.png)
+
+### Product Sales & Profit Analysis
+![Product Analysis](product_sales_profit_analysis.png)
+
+### Operational & Shipping Performance
+![Operational Performance](operational_shipping_performance.png)
+
+### Insight & Overview
+![Insights](insight_overview.png)
 
 ---
 
 ## Demo Video
-
-[Watch Dashboard Walkthrough](INSERT_VIDEO_LINK_HERE)
+[Watch Dashboard Walkthrough](dashboard_walkthrough_video.mov)
 
 ---
 
