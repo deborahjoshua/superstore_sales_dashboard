@@ -102,16 +102,22 @@ The dashboard was built to answer the following business questions:
 
 ---
 
-## Demo Video
-[Watch Dashboard Walkthrough](dashboard_walkthrough_video.mov)
+## 🎥 Dashboard Walkthrough
 
+This short demo highlights:
+- KPI tracking (Sales, Profit, Margin %)
+- Year-over-Year performance comparison
+- Regional and product-level breakdown
+- Drill-down and slicer interactivity
+
+▶️ [Watch the Superstore Sales Dashboard Demo](https://youtu.be/YjMh8wVxksQ)
 ---
 
 ## Project Files
 
 - `superstore_sales_dashboard.pbix`
 - Dashboard screenshots
-- Measures documentation (if applicable)
+- Measures documentation 
 
 ---
 
