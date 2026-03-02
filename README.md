@@ -101,6 +101,13 @@ The dashboard was built to answer the following business questions:
 ![Insights](insight_overview.png)
 
 ---
+## Key Insights
+
+- Identified margin compression in select product sub-categories
+- Observed regional performance disparities across fiscal years
+- Highlighted seasonal fluctuations in monthly revenue trends
+
+---
 
 ## 🎥 Dashboard Walkthrough
 
