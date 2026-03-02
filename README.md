@@ -83,6 +83,11 @@ The dashboard was built to answer the following business questions:
 
 ---
 
+## DAX Measures
+View full measure documentation here: [Measures](measures.md)
+
+---
+
 ## Dashboard Preview
 
 ### Sales Performance & Fulfillment Overview
